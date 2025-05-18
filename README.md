@@ -99,7 +99,7 @@ O aplicativo utiliza dois "agentes" conceituais que interagem com a API Google G
 
 ## Fontes
 
-## Esse foi um resumo das pesquisas que fiz no https://notebooklm.google.com/ para alimentar o https://aistudio.google.com/app/prompts/new_chat?utm_source=website&utm_medium=referral&utm_campaign=Alura-may-25 e assim criar os prompts para o https://colab.research.google.com/
+## Esse foi um resumo das pesquisas que fiz no https://notebooklm.google.com/ para alimentar o https://aistudio.google.com/app/prompts/new_chat?utm_source=website&utm_medium=referral&utm_campaign=Alura-may-25 e assim criar os prompts para o https://colab.research.google.com/ https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221E7yah0Hor-V08V-X1wuh2IRVopBTtymK%22%5D,%22action%22:%22open%22,%22userId%22:%22106405745783266077759%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing, https://drive.google.com/file/d/1E9qx281_cWuLHPuNRYpHBWn1eQ-dg6dL/view?usp=sharing, https://drive.google.com/file/d/1ze6q5FRjgHvvlrI_xTAVWnGsGFyrUsNL/view?usp=sharing
 
 Segue:
 
@@ -150,4 +150,4 @@ Segue:
     *   Guia de Referência Rápida em ISTs: <http://subpav.org/download/prot/destaque/APS_DST_final_completo.pdf>
     *   Informações sobre equipes de Consultório na Rua na Plataforma SUBPAV: <http://subpav.org/download/prot/Equipes%20de%20Consultorio%20na%20Rua.pdf>
     *   Site da Secretaria Municipal de Saúde do Rio de Janeiro: <prefeitura.rio/web/sms>
----
+      
