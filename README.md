@@ -99,10 +99,55 @@ O aplicativo utiliza dois "agentes" conceituais que interagem com a API Google G
 
 ## Fontes
 
-"https://www.psitto.com.br/blog/tipos-terapia/",
-    "https://www.paho.org/pt/noticias/25-6-2024-mais-tres-milhoes-pessoas-morrem-cada-ano-maioria-homens-devido-ao-uso-alcool-e",
-    "https://www.gov.br/saude/pt-br/composicao/saes/desmad/raps/caps",
-    "https://www.gov.br/mds/pt-br/noticias-e-conteudos/publicacoes/desenvolvimento-social/cartilha_como-ajudar-uma-pessoa-dependente-de-drogas.pdf",
-    "https://www.scielo.br/j/pe/a/4RMNrWKNpxxyzJ5FLZZgFJD/",
-    "https://subpav.org/aps/uploads/publico/repositorio/guia_de_referencia_rapida_-_alcool_e_outras_drogas_(1).pdf"
+## Esse foi um resumo das pesquisas que fiz no https://notebooklm.google.com/ para alimentar o https://aistudio.google.com/app/prompts/new_chat?utm_source=website&utm_medium=referral&utm_campaign=Alura-may-25 e assim criar os prompts para o https://colab.research.google.com/
+
+Segue:
+
+*   **"ARTIGOS - O Poder Judiciário nas constituições do Brasil - CNJ"**: Este material contém referências e links para diversos documentos históricos e artigos sobre o Poder Judiciário no Brasil. Os links específicos fornecidos nos excertos incluem:
+    *   Ato Institucional nº 2, de 27 de outubro de 1965: <http://www.planalto.gov.br/ccivil_03/AIT/ ait-02-65.htm>
+    *   Ato Institucional nº 5, de 13 de dezembro de 1968: <http://www.planalto.gov.br/ ccivil_03/AIT/ait-05-68.htm>
+    *   Constituição Política do Império do Brasil, 1824: <http://www.planalto.gov.br/ ccivil_03/constituicao/constituicao24.htm>
+    *   Emenda Constitucional nº 11, 1978: <http://www.planalto.gov.br/ccivil_03/constituicao/ emendas/emc_anterior1988/emc11-78.htm>
+    *   Lei nº 4.898, de 9 de dezembro de 1965: <http://www.planalto.gov.br/ccivil_03/leis/ L4898.htm>
+    *   Lei nº 4.717, de 29 de junho de 1965: <http://www.planalto.gov.br/ccivil_03/LeIs/L4717. htm>
+    *   Lei Complementar nº 35, de 14 de março de 1979: <http://www.planalto.gov.br/ ccivil_03/leis/lcp/lcp35.htm>
+    *   Discurso do Presidente Ernesto Geisel, 1º abr. 1977: <http://www.biblioteca.presidencia.gov.br/ ex-presidentes/ernesto-geisel/discursos-1/1977/15.pdf/ at_download/file>
+    *   Artigo "Inconveniência e Inutilidade do Aumento dos Ministros do Supremo Tribunal Federal" de Álvaro Moutinho Ribeiro da Costa: <http://www.stf. jus.br/arquivo/biblioteca/PastasMinistros/RibeiroCosta/ ArtigosJornais/1965_out_20.pdf>
+    *   Artigo "Evolução Histórica da Estrutura Judiciária Brasileira" de Ives Gandra da Silva Martins Filho: <http://www. planalto.gov.br/ccivil_03/revista/Rev_05/evol_historica. htm>
+    *   "Notas sobre o Supremo Tribunal (Império e República)" de José Celso de Mello Filho: <http://www.stf.jus.br/arquivo/cms/ publicacaoPublicacaoInstitucionalCuriosidade/anexo/ Notas_informativas_sobre_o_STF_versao_de_2012.pdf>
+
+*   **"Como ajudar uma pessoa DepeNDeNTe De Drogas - Portal Gov.br"**: Esta cartilha, associada ao Portal Gov.br, tem como título "Como ajudar uma pessoa DepeNDeNTe De Drogas". Embora não haja um link direto para o documento nos trechos, ele menciona a disponibilidade de um aplicativo (Zappar) para acesso a conteúdos extras através de códigos de Realidade Aumentada, com links para download no Google Play e App Store indicados por QR codes.
+
+*   **"Constituição Federal: o que é e qual a importância? Confira! - Gran Faculdade"**: O título deste artigo da Gran Faculdade é "Constituição Federal: o que é e qual a importância? Confira!". Os trechos fornecidos focam na estrutura do site e nos tópicos abordados no artigo, mas não incluem um link direto para o conteúdo completo.
+
+*   **"Constituição da República Federativa do Brasil - Senado Federal"**: Esta fonte apresenta trechos da Constituição da República Federativa do Brasil, bem como da Convenção sobre os Direitos das Pessoas com Deficiência e seu Protocolo Facultativo, e um índice temático. Não há um link único direto para a versão completa do documento nos excertos.
+
+*   **"MI-mhGAP Manual de Intervenções para transtornos mentais, neurológicos e por uso de álcool e outras - Iris Paho"**: O título completo deste manual é "MI-mhGAP Manual de Intervenções para transtornos mentais, neurológicos e por uso de álcool e outras drogas na rede de atenção básica à saúde. Versão 2.0". Um link para os dados de catalogação está disponível: <http://iris.paho.org>.
+
+*   **"Marco Civil da Internet – Wikipédia, a enciclopédia livre"**: Este é um artigo da Wikipédia sobre o Marco Civil da Internet. Na seção de "Ligações externas", é fornecido um link direto para a lei: **Lei nº 12 965, de 23 de abril de 2014 – Marco Civil da Internet no Brasil** (<http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm> - este link não estava nos trechos, mas é o link padrão do planalto para a lei citada no texto). Outro link citado é para o Decreto nº 8 771, de 11 de maio de 2016.
+
+*   **"O MARCO CIVIL DA INTERNET E A RESPONSABILIDADE CIVIL DOS PROVEDORES EM RELAÇÃO ÀS PUBLICAÇÕES DE CONTEÚDOS DE TERCEIROS An - UNIFAN"**: O título completo deste documento é "O MARCO CIVIL DA INTERNET E A RESPONSABILIDADE CIVIL DOS PROVEDORES EM RELAÇÃO ÀS PUBLICAÇÕES DE CONTEÚDOS DE TERCEIROS An". Não há um link direto para o documento nos trechos, mas a seção de referências inclui links para decisões judiciais citadas:
+    *   Jurisprudência TJDFT via Jusbrasil: <https://tj-df.jusbrasil.com.br/jurisprudencia/899288955/7226795120188070001-df-0722679-5120188070001>
+    *   Jurisprudência TJMT via Jusbrasil: <https://tj-mt.jusbrasil.com.br/jurisprudencia/839613322/apelacao-civel-ac-170949320168110041-mt>
+    *   Notícia STJ: <https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/04122020-Responsabilizacao-de-provedor-de-aplicacao-por-conteudo-ofensivo-independe-de-notificacao-judicial.aspx#:~:text=%E2%80%8B%E2%80%8BA%20jurisprud%C3%AAncia%20do ,ficar%20demonstrado%20que%20houve%20ci%C3%AAncia>
+
+*   **"Reflexões e orientações sobre a prática da psicoterapia - Conselho Federal de Psicologia"**: Este documento do Conselho Federal de Psicologia (CFP) tem como título "Reflexões e orientações sobre a prática da psicoterapia". Ele menciona que está disponível em <www.cfp.org.br>. A seção de referências inclui links para artigos da ABRAP:
+    *   Artigo da ABRAP sobre normatização da psicoterapia: <http://www.abrap.org/normatizacao.php?NuNot=63>
+    *   Artigo da ABRAP sobre reconhecimento e qualificação do psicoterapeuta: <abrap.org/normatizacao.php?NuNot=271>
+
+*   **"TRIPARTIÇÃO DOS PODERES: A INFLUÊNCIA DO PODER EXECUTIVO SOBRE OS DEMAIS PODERES - UniRV"**: O título completo deste documento é "TRIPARTIÇÃO DOS PODERES: A INFLUÊNCIA DO PODER EXECUTIVO SOBRE OS DEMAIS PODERES". É associado à UniRV, mas não há um link direto para o documento nos trechos.
+
+*   **"Tipos de Terapia: Saiba quais são e qual escolher - Psitto"**: Este artigo do blog Psitto tem o título "Tipos de Terapia: Saiba quais são e qual escolher". Os trechos fornecidos não contêm um link direto para o artigo.
+
+*   **"discursos políticos, saberes e práticas Modelos de atenção à saúde de usuários de álcool e outras drogas - SciELO"**: Este artigo, hospedado na plataforma SciELO, tem o título "discursos políticos, saberes e práticas Modelos de atenção à saúde de usuários de álcool e outras drogas". Estão disponíveis links para download do PDF em português.
+
+*   **"saúde mental e redução de danos na atenção primária: concepções e ações - SciELO"**: Este artigo, hospedado na plataforma SciELO, tem o título "saúde mental e redução de danos na atenção primária: concepções e ações". Estão disponíveis links para download do PDF em português e inglês.
+
+*   **"um guia para familia do adicto.pdf"**: Embora o nome do arquivo sugira o título "um guia para familia do adicto", o documento é uma adaptação de um guia do Grupo Familiar Nar-Anon. É fornecido o site do Nar-Anon do Brasil: <http://www.naranon.org.br>. Este não é um link direto para o PDF do guia.
+
+*   **"Álcool e Outras Drogas"**: O título completo deste guia da Secretaria Municipal de Saúde do Rio de Janeiro é "Álcool e outras drogas: tratamento e acompanhamento de pessoas com problemas relacionados ao uso de álcool e outras drogas". Contém links para outros guias e informações na Plataforma SUBPAV e o site da prefeitura do Rio:
+    *   Guia de Referência Rápida em HIV/AIDS: <http://subpav.org/download/prot/GuiadeReferenciaRepidaemHIV_AIDS_versaoGUIA_miolo.pdf>
+    *   Guia de Referência Rápida em ISTs: <http://subpav.org/download/prot/destaque/APS_DST_final_completo.pdf>
+    *   Informações sobre equipes de Consultório na Rua na Plataforma SUBPAV: <http://subpav.org/download/prot/Equipes%20de%20Consultorio%20na%20Rua.pdf>
+    *   Site da Secretaria Municipal de Saúde do Rio de Janeiro: <prefeitura.rio/web/sms>
 ---
