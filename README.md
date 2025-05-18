@@ -97,4 +97,12 @@ O aplicativo utiliza dois "agentes" conceituais que interagem com a API Google G
 *   Testes extensivos com usuários para refinar a usabilidade e a eficácia das perguntas e feedbacks.
 *   Consultoria jurídica especializada para garantir total conformidade com a LGPD e outras regulamentações antes de qualquer lançamento.
 
+## Fontes
+
+"https://www.psitto.com.br/blog/tipos-terapia/",
+    "https://www.paho.org/pt/noticias/25-6-2024-mais-tres-milhoes-pessoas-morrem-cada-ano-maioria-homens-devido-ao-uso-alcool-e",
+    "https://www.gov.br/saude/pt-br/composicao/saes/desmad/raps/caps",
+    "https://www.gov.br/mds/pt-br/noticias-e-conteudos/publicacoes/desenvolvimento-social/cartilha_como-ajudar-uma-pessoa-dependente-de-drogas.pdf",
+    "https://www.scielo.br/j/pe/a/4RMNrWKNpxxyzJ5FLZZgFJD/",
+    "https://subpav.org/aps/uploads/publico/repositorio/guia_de_referencia_rapida_-_alcool_e_outras_drogas_(1).pdf"
 ---
